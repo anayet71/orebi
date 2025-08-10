@@ -25,7 +25,8 @@ const Navbar = ({ className = '' }) => {
                     {/* Middle Section */}
                     <div className="flex-[3] w-full md:w-auto">
                         <div className="bg-white rounded-lg px-4 py-2 shadow-sm">
-                            Search bar or menu here
+                            <input placeholder=' Search ' type="text" />
+                           
                         </div>
                     </div>
 
