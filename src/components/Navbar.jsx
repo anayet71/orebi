@@ -32,9 +32,7 @@ const Navbar = ({ className = '' }) => {
 
                     {/* Right Section */}
                     <div className="flex-[1] flex justify-end w-full md:w-auto">
-                        <button className="bg-black text-white px-4 py-2 rounded-md">
-                            Sign In
-                        </button>
+                        
                     </div>
 
                     {/* Submenu */}
